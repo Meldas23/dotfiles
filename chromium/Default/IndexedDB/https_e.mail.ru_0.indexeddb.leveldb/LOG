@@ -1,0 +1,5 @@
+2020/12/19-12:54:33.060 639 Reusing MANIFEST /home/meldaspc/.config/chromium/Default/IndexedDB/https_e.mail.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/19-12:55:05.075 65d Level-0 table #5: started
+2020/12/19-12:55:05.077 65d Level-0 table #5: 3014 bytes OK
+2020/12/19-12:55:05.078 65d Delete type=0 #3
+2020/12/19-12:55:05.078 65d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/12/19-01:40:23.417 8e8 Reusing MANIFEST /home/meldaspc/.config/chromium/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/19-01:40:23.417 8e8 Recovering log #7
+2020/12/19-01:40:23.417 8e8 Reusing old log /home/meldaspc/.config/chromium/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/000007.log 
+2020/12/19-01:40:59.285 97d Level-0 table #12: started
+2020/12/19-01:40:59.286 97d Level-0 table #12: 654 bytes OK
+2020/12/19-01:40:59.288 97d Delete type=0 #7
+2020/12/19-01:40:59.288 97d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/19-01:40:59.288 97d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0c\x00s\x00w\x00_\x00p\x00u\x00s\x00h\x00_\x00h\x00a\x00s\x00h' @ 98 : 1
+2020/12/19-01:40:59.288 97d Compacting 1@1 + 1@2 files
+2020/12/19-01:40:59.289 97d Generated table #13@1: 20 keys, 585 bytes
+2020/12/19-01:40:59.289 97d Compacted 1@1 + 1@2 files => 585 bytes
+2020/12/19-01:40:59.290 97d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/19-01:40:59.290 97d Delete type=2 #9
+2020/12/19-01:40:59.290 97d Delete type=2 #12
+2020/12/19-01:40:59.291 97d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0c\x00s\x00w\x00_\x00p\x00u\x00s\x00h\x00_\x00h\x00a\x00s\x00h' @ 98 : 1 .. (end); will stop at (end)

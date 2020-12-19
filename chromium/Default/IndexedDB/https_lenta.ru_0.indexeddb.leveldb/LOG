@@ -1,0 +1,5 @@
+2020/12/18-17:22:41.781 2fc Reusing MANIFEST /home/meldaspc/.config/chromium/Default/IndexedDB/https_lenta.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-17:23:52.934 2ef Level-0 table #5: started
+2020/12/18-17:23:52.936 2ef Level-0 table #5: 15103 bytes OK
+2020/12/18-17:23:52.938 2ef Delete type=0 #3
+2020/12/18-17:23:52.938 2ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

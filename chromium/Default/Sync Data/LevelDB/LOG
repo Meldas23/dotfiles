@@ -1,0 +1,9 @@
+2020/12/19-12:51:06.655 372 Reusing MANIFEST /home/meldaspc/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/12/19-12:51:06.655 372 Recovering log #3
+2020/12/19-12:51:06.655 372 Reusing old log /home/meldaspc/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2020/12/19-13:00:20.927 7dc Level-0 table #5: started
+2020/12/19-13:00:20.932 7dc Level-0 table #5: 152787 bytes OK
+2020/12/19-13:00:20.934 7dc Delete type=0 #3
+2020/12/19-13:11:08.587 a7b Level-0 table #7: started
+2020/12/19-13:11:08.592 a7b Level-0 table #7: 96292 bytes OK
+2020/12/19-13:11:08.594 a7b Delete type=0 #4

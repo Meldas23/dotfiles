@@ -1,0 +1,105 @@
+{
+   "checksum": "d843efd69cbe6b0657153549d1fb91bf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13233606737508839",
+            "guid": "5650e882-7b39-4132-ae02-03b8743783de",
+            "id": "5",
+            "name": "PoE Planner - For Exiles, By Exiles",
+            "type": "url",
+            "url": "https://poeplanner.com/ABQAAQkAFDQBAIG5HRXsivDpRsqQhNlHfr02ZU2-p2BBY3AR1VeXQzG_1VO72sF07QUtRJ4hYHTxKaUY2xR1d9d3ohX2YnkABuOfZ6CHdkp9VvpWyenaEjDuDqOKI_ZNko19MHzUUnSgBqIX3AYgy_UxsNy95w8B3HfjqW7AGngNbzu18jWS2L3-CvJFOuGmV03j_o95aMEEXz8UIO8OUEfkUZd5KCqLT5tqhVLZYa2Nz352rBo-8awpLny40iHyQYIH2XwUcRuqwQfXfmMXEPDyWoE66hj3MpJ9PT7lz5hv3CPBi4FBNe867VFH51Qk_f_eTP9OKo9g1lgFZqHZND7sXISUiXF71KrNa9QAAAAAAA=="
+         }, {
+            "date_added": "13234031957837132",
+            "guid": "20fc200f-efd9-4e42-bf87-cf651e23ebc6",
+            "id": "6",
+            "name": "Builds - NAserver_difficulty - poe.ninja",
+            "type": "url",
+            "url": "https://poe.ninja/challengehcssf/builds/char/Benderic/NAserver_difficulty?i=0&search=class%3DNecromancer%26sort%3Dlife"
+         } ],
+         "date_added": "13252834266638159",
+         "date_modified": "13234031957837132",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13165861751912999",
+               "guid": "f04349ce-2b8c-4771-93ab-c088b8abf99f",
+               "id": "10",
+               "name": "Скачать модели ножа для CS 1.6 (всего 145) - All-CS.ru",
+               "type": "url",
+               "url": "https://all-cs.ru/cs16/weapon-skins/knives?page=2"
+            }, {
+               "date_added": "13233516162907333",
+               "guid": "2f24b196-f696-4e3c-aeb3-08b99c6aebfb",
+               "id": "11",
+               "name": "Builds - CurserBDOGAMER - poe.ninja",
+               "type": "url",
+               "url": "https://poe.ninja/challengehc/builds/char/Phonaestheme/CurserBDOGAMER?i=0&search=class%3DNecromancer"
+            }, {
+               "date_added": "13233516169273122",
+               "guid": "c5e11697-14c8-43c2-94b4-542ca310eeee",
+               "id": "12",
+               "name": "Дерево пассивных умений - Path of Exile",
+               "type": "url",
+               "url": "https://ru.pathofexile.com/fullscreen-passive-skill-tree/3.10.1/AAAABAMDAQQHBLMHHgj0C2ERLRFQEZYUIBUnFm8XLxpsHNweCCL0JKoksCj6KpgsnDLRNZI26TrhOuk8LT38RUdFnUeFSVFJsUyzTeNQR1IpU1JVxlXgVi5YWlhjWpFfP2D4Y0Fnm2jyakNqrGvbbAttGXHzd8J8g3_GgKSDX4PMg9uIQIt2jLGMz46-jxqQM5LBkyeVLpitmuCbiqIAplemrKh9qqmuPq9stz64k7zqvk-_l8BmwcXGrsk90B_Tj9P718_YvdkL37DjauRR6-7sg-yK7w7viO_r8B_w1fIe8kX2SPk3-tL-Cv6B_o8=?accountName=Phonaestheme&realm=pc&characterName=CurserBDOGAMER"
+            } ],
+            "date_added": "13252834411746348",
+            "date_modified": "13252834411746348",
+            "guid": "b2e31750-207f-421c-aa00-d69bc0d5e643",
+            "id": "9",
+            "name": "Speeddial",
+            "type": "folder"
+         }, {
+            "date_added": "13143662079418996",
+            "guid": "22fa32e8-a279-4d15-a51f-d82e526e89c8",
+            "id": "13",
+            "name": "Настройки",
+            "type": "url",
+            "url": "chrome://settings/"
+         }, {
+            "date_added": "13148815198563980",
+            "guid": "3ca4df99-c925-4ea0-8b4b-4c70b5a6e343",
+            "id": "14",
+            "name": "GAMING MUSIC STREAM 🎮 24/7 • EDM, Trap, Dubstep, House • Royalty Free Music • Bass Music 2017 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BZ4L1Zuw5cw"
+         } ],
+         "date_added": "13252834266638162",
+         "date_modified": "13148815198563980",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13140952946078413",
+            "guid": "8b443747-ff01-491f-876c-fc2c4e820729",
+            "id": "7",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=283&clid=2255400-225&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13140952946078413",
+            "guid": "100bb914-63c4-4ac2-8222-76c672824a37",
+            "id": "8",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=283&clid=2255400-225&from=dist_bookmark"
+         } ],
+         "date_added": "13252834266638164",
+         "date_modified": "13140952946078413",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJAE+onsu2BQAhAE+onsu2BQAiFAmXB+Suy7YFABAFGRBAQo3bpmm9MhgKFggCEe/j967LtgUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAT6iey7YFACEAT6iey7YFADIYChYIAhHv4/euy7YFABgAIQAAAAAAAAAAIABI08eZzucucNG4mc7nLhIAIAEqGHcrMzJGMUdrT2NwVUFoL1dhYVpVWHc9PRKtAggOEqgCChxTVXJVRUZwZHlaaVowaE9jNnErMGZUR1dQWHc9EqYBWjpBRHF0QVp4VUhQekNEbm5vYVc5NWh6cHlVQi9JY2pOanRxbDlNMnJ0RW0yVThpL2xaRkNEbVZIZVhGZVVKSVFHMTE4bGdnUmJCWHphVTlBcnpPV24vMDdDcEo3aWVaOThvcEdCN0paaCtXZXJ0NVZCK1h5NHg5OUZ4NWEyeDR4U1o2bGVhTFR5OFBQL0RSWndNRC9OVGJaVlA0T3hieVlVNlE9PRgAIAAoADDu65mIh7XtAjiYm5bq6itAmJuW6uorShw1OWhUYXI2aEpnLzhsUWpxVFNMYmhseENOYjg9Wh8iHdlzRjc4MFB2N0tzajY2V3hPcDZYUjZ1L0dtakk9ZTj9dtsSrQIIDRKoAgoccGVYK2NzSDhoTUV5WUZCS05SMmt2NTJvOFlrPRKmAVo6QURxdEFaeFVIUHpDRG5ub2FXOTVoenB5VUIvSWNqTmp0cWw5TTJydEVtMlU4aS9sWkhKSGhFcFdHMXQzVytkMy83NFY4L0ZpeDJsUm5sUWp0bE1yazRVVk9UV1dGVW9GcHdPaDdHalRpaFJ4V2c3amJxVUI5UUFIa0NaUWR5azlESDdYNEhWdGtrcVdUT0RRN1ovZlJpTitsbjhsNk1vVHdBPT0YACAAKAAw6eDZiIe17QI4mJuW6uorQJiblurqK0ocQjdUcm52aktMVmY2YXc0Q2pTV0FabVl0S0RzPVofIh2yN2tvZ2N6ZEdZeCtkTkpuUUZIaEZPL2hya2tFPWWbH8O9Eq0CCAwSqAIKHGpyR09VYTcxNnFwbVgvQ2xoUGR3T1NQc0c5az0SpgFaOkFEcXRBWnhVSFB6Q0Rubm9hVzk1aHpweVVCL0lzMWtOUmxBWVBvdElwVmtnZm9UMWttQnY2V1M4SEp2OUlScC8zMWhadEFPbTRLWXBqcEtGdC9TdGFSUWhsTUlmOUMrbDhsWG5hYTBXaXlpTHVsVlNFVE5nY2ZJUXR4MGs4NHQ1THNVeU5MZzdmRXVOY0FHR1pIald0Y0ZNRHJNRHdTLzd5QT09GAAgACgAMO7rmYiHte0COLnAxdKfLkC5wMXSny5KHDhVNmRhLzF3TER0UEU2L2dHcVFrSHNmeU5TTT1aHyId1FpBbnJnbWh6eGgxNnR3TFZDazRoUWJjTGNQOD1lJv82cxKtAggLEqgCChxFVnY5ZVUzY3VMVGl4R0RMMVJqRkluTEdRbnM9EqYBWjpBRHF0QVp4VUhQekNEbm5vYVc5NWh6cHlVQi9JczFrTlJsQVlQb3RJcFZrZ2ZvVDFrczhvRFVwTXk5dUxLbEkxb2JsNHVCMkNXMnhyNCtHZngwaWIvVDA4OHBBVEREZ1BxZWZLbjNiM20yaGwzNWJ5Z3RWM0tXaWdaVGYyeVlCZWJDUDJTZzZuRnlyNTJKRnpVK1FrWGZlZ0lxUlFHcXloQ1E9PRgAIAAoADD5z5ndicbtAjjbjsXSny5A247F0p8uShxqdG9ZTVBsTWxQZjQ3cUM0ME9FM1dIMU9uTXM9Wh8iHakvNXFxZ3JOMU5rL3JueEtzMlpRaHRxcWx6bDg9ZQZNXY8SrAIICRKnAgocQmhPdjRMT3FGOUNjN01vQnRpak9TUUQzUk84PRKmAVo6QURxdEFaeFVIUHpDRG5ub2FXOTVoenB5VUIvSWNqTmp0cWw5TTJydEVtMlU4aS9sWkZ1Z0M5T3JkTldvQmExeC9IYmFJNW4vRzhoWHZtSERmekRoK1pPNFBRT3hCQ0FSU1BmMTNmekl1NEJtWk14SnFLSXFrNlFWMnVnbkRjMXZoSlJZYlFkMk5tRDZUdHhHUnNxcUpyV3FpS0cvZHJhWFhBPT0YACAAKAAw7uuZiIe17QI4mJuW6uorQJiblurqK0ocb054aFJBT2IrMHlkbzE5bzdIMUVydlcyZUJNPVoeIhxlTTZieG04MWdNRW04S0ZPejd2YVFVdUtleFE9ZQAAAAASrAIIChKnAgocR25lRWJBaWFoZUZZSVNYN1ZnMVY3eGNwNTBBPRKmAVo6QURxdEFaeFVIUHpDRG5ub2FXOTVoenB5VUIvSWU0WG9SYXNSZEQ5SDB0SCtSdHYxdU85a09zS0VMNVUxZ1l2UjBPc3FPRFhqOHRxaUQ1TzV3azJVL1F0N2MwSllEaWkrYk0rd3J3NmxjU1B4S240d1dOTkkzOGpyQmtpWkZlakdXSld0Nm1yMWErcVRUcVB4Q3JSRWNtZmhvUXM0TW1TbDR3PT0YACAAKAAw7uuZiIe17QI46MizzqMsQOjIs86jLEocYUk5ZitrTjkwQThLTCtsZ1M1NnhhQkJxMXNzPVoeIhxTSldtcmtYZVhkUTk0c1pEbUNxODBmaEpoOVk9ZTQ+m2YSwwEIAhK+AQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRJmWjpBRHF0QVp6YlA3a2hLL21yeUFZNHNhZXNSbGtreEZaYXZsZTAxc21qRy9TVFlMa3UxdkIxVmJNMFdRV2pFb3pyVTJHN1ZiMGtwMytpT05vVm92cVhKY2tqN1d6aXg0RHNDUT09GAAgACgAMKmJgva62e0COABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASwwEIAxK+AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp4a0lVMFZobms3Z1JpZlNtcllCbmsxdGN3V0owZWZsRkp3SFE3YmwrQ2U2S3NXUlpwV0lsTXA5TzQ4UGlHaVA2c3FmNkdaZmxrUXU3S2d4ZnVDOTZBZXI5aHlzZz09GAAgACgAMKmJgva62e0COABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASrQIICBKoAgocOTBwdFBOZDl4OGh1L05DK0JaQ1h4bzVSQ0ZVPRKmAVo6QURxdEFaeFVIUHpDRG5ub2FXOTVoenB5VUIvSWNqTmp0cWw5TTJydEVtMlU4aS9sWk9BMTNnMWlVRFBya042MVM2L1hpem9RZ1hCejIrQ2ExKzhOSVprSGsxeTZxZU1mZFUzOEVYRFBOWkRTSzFBTUUrNCtGWFpNRUlYK2t2NFJHWm5zK2ZWVEhzdDhvWnZrR1lQSk5xUjBxWkJ3bWFXL1pBPT0YACAAKAAw7uuZiIe17QI4mJuW6uorQJiblurqK0ocWGNWUmxDbWozWGtCeFFReHNVZmpEYjFRUnFZPVofIh24UTRFZGtBcDlrd2lpUC9tcWtwQ3hnUCtWakx3PWVu79JGEq0CCAYSqAIKHG55T09Sa0R5dXdXakJHRlVTdFhTUWVBWnhPQT0SpgFaOkFEcXRBWnhVSFB6Q0Rubm9hVzk1aHpweVVCL0lzMWtOUmxBWVBvdElwVmtnZm9UMWtsaTBtY2h0Z21tM0FoUUhUdE1zekwrRUdmRkVlSnFxdy9EOXFpZjBaUjFSdGhoRkZnZkdxdHpIRXpFVS9uTDFYN20vWCtOcGJxTGZWaFZIOFJNT0lKM3FnNzlmQUZFUi9WM053VnZ1OUpTNHNUcEozdz09GAAgAigCMJaPkPe62e0COM3evsihLkD/uZnO5y5KHFVZMHJCd1RRYVp6MWJxbDB4WEt0NU5HQ1hWYz1aHyIdtEpES01iVzZ6UjdsZEJmTG1VZG1YYWRjRFRZWT1lBk1djxKsAggHEqcCChw2YWF0L2RMRE1POFpxSFU1UmppQUpyQ3lHU2c9EqYBWjpBRHF0QVp4VUhQekNEbm5vYVc5NWh6cHlVQi9JY2pOanRxbDlNMnJ0RW0yVThpL2xaS3lRNmhJTFB1cUNPQXQ0anJ2c3Y3d2lPWmsvbGJlMVVZRE01N2tiZndRQjhtOExnN2MrV3dxbnRrbzU2R3BYd2s3dFM1QlVONUJkWGE0S2VJY3ZOUEI0R2MvS3d2N001dmM4SnNkKzVQWXh2YjhHZ1E9PRgAIAAoADDu65mIh7XtAjiXm5bq6itAl5uW6uorShx2dHhkdDFaZy9PZ05xOEpoejQyN3pyVUxtYXc9Wh4iHHBUYmZqYXpsQ0p6VUIrekkvR010K1ZsR1Jxaz1liqFvaxKsAggFEqcCChxGTFVxVXBRWmx1MjB4b0RWUXF2YXN5bEtoaDA9EqYBWjpBRHF0QVp4VUhQekNEbm5vYVc5NWh6cHlVQi9JczFrTlJsQVlQb3RJcFZrZ2ZvVDFrcTMybmFYWm1wK3dXaUd0MjFGNlVaM1lwSElDUnNob3lwWk5udnNiUkNybmJoN0QwQ1V2eVRUTXlCS1BvR2lZYWJ3NVdOWVBSTDdabHJIWTdPZGJubjVBMVhZeWVBSFRqQ293cm1zcmZ0RTErSktIZlE9PRgAIAIoAjCWj5D3utntAjjkrN39ny5A/7mZzucuShxNM3dVL2ZiVTNxWnlwUlBQWnd6VElqRFZqSFk9Wh4iHGhNNzk0Y1dPb1hEU2pKRDFTQ1l3YjNBTXZGdz1lraafbBKrAQgBEqYBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnlmVUd4ZlEyblRITzc1cVMzVFkySFhyZVAvUHFuV3M0MVdSUHdpclZzRlVmWVpTeGdLOVN4Nkx3dFphbVF4YS9TR01xNW4YACAAKAAwqYmC9rrZ7QI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABgBIIfJmc7nLg==",
+   "version": 1
+}

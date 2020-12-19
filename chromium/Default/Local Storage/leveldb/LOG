@@ -1,0 +1,18 @@
+2020/12/19-12:51:06.665 366 Reusing MANIFEST /home/meldaspc/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/19-12:51:06.671 366 Recovering log #39
+2020/12/19-12:51:06.672 366 Reusing old log /home/meldaspc/.config/chromium/Default/Local Storage/leveldb/000039.log 
+2020/12/19-12:54:28.679 390 Level-0 table #43: started
+2020/12/19-12:54:28.682 390 Level-0 table #43: 18091 bytes OK
+2020/12/19-12:54:28.684 390 Delete type=0 #39
+2020/12/19-13:16:15.347 aec Level-0 table #45: started
+2020/12/19-13:16:15.349 aec Level-0 table #45: 16002 bytes OK
+2020/12/19-13:16:15.351 aec Delete type=0 #42
+2020/12/19-13:16:15.351 b46 Compacting 4@0 + 1@1 files
+2020/12/19-13:16:15.400 b46 Generated table #46@0: 387 keys, 1335477 bytes
+2020/12/19-13:16:15.400 b46 Compacted 4@0 + 1@1 files => 1335477 bytes
+2020/12/19-13:16:15.401 b46 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/19-13:16:15.401 b46 Delete type=2 #45
+2020/12/19-13:16:15.401 b46 Delete type=2 #38
+2020/12/19-13:16:15.401 b46 Delete type=2 #43
+2020/12/19-13:16:15.401 b46 Delete type=2 #40
+2020/12/19-13:16:15.401 b46 Delete type=2 #35

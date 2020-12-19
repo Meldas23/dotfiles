@@ -1,0 +1,5 @@
+2020/12/19-13:20:58.704 b4d Reusing MANIFEST /home/meldaspc/.config/chromium/Default/IndexedDB/https_www.dns-shop.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/19-13:22:07.709 c42 Level-0 table #5: started
+2020/12/19-13:22:07.711 c42 Level-0 table #5: 13851 bytes OK
+2020/12/19-13:22:07.712 c42 Delete type=0 #3
+2020/12/19-13:22:07.712 c42 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
