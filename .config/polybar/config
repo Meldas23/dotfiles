@@ -1,14 +1,13 @@
 [colors]
-background = #002B36
+background = #cc173938
 background-alt = #444
-foreground = #dfdfdf
+foreground = #cfc6b8
 foreground-alt = #555
 primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
 
 [bar/bar]
-monitor = HDMI-1
 width = 100%
 height = 27
 radius = 0
